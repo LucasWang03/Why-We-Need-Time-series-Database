@@ -16,7 +16,7 @@
 
 ### 2. The history of time-series database 
 
-​	<img src="https://pics4.baidu.com/feed/72f082025aafa40ff32c0ee4e34dff4779f019d7.jpeg?token=11c41b43eb56d4fb34fe0eef47d8e521" alt="img" style="zoom:150%;" />
+​	![image-20220707222641803](https://github.com/LucasWang03/Why-We-Need-Time-series-Database/blob/main/images/image-20220707222641803.png)
 
   As shown in the figure above,the development of time-series database can be traced back to the 1990s, when the demand for timing data storage came into being in the monitoring field. The first generation of timing databases, represented by RRDTool and Whisper, using fixed-size databases to rapidly store numerical data over time, it's often embedded in the monitoring system. 
 
