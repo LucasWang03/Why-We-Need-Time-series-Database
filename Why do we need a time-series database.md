@@ -16,14 +16,14 @@ Obviously, time-series database is aimed at storing and processing time-series d
 
 ### 2. The history of time-series database 
 
-![image-20220707222641803](https://github.com/LucasWang03/Why-We-Need-Time-series-Database/blob/main/images/image-20220707222641803.png)
+![image-20220708111556712](https://github.com/LucasWang03/Why-We-Need-Time-series-Database/blob/main/images/image-20220708111556712.png)
 
 As shown in the figure above,the development of time-series database can be traced back to the 1990s, when the demand for timing data storage came into being in the monitoring field. The first generation of timing databases, represented by RRDTool and Whisper, using fixed-size databases to rapidly store numerical data over time, it's often embedded in the monitoring system. 
 With the development of big data, time-series data has exploded. Not only monitoring systems, but also other systems have more requirements for processing time-series data. In 2011, time-series databases represented by OpenTSDB and KairosDB which are based on distributed storage and optimize for time began to appear.
 
 In 2013, the vertical sequential database represented by InfluxDB has become the mainstream of the time-series database which has more efficient storage, reading and other data processing capabilities and efficient compression algorithms for time-series data.
 
-![image-20220707222641803](C:\Users\Lucas Wang\AppData\Roaming\Typora\typora-user-images\image-20220707222641803.png)
+![image-20220707222641803](https://github.com/LucasWang03/Why-We-Need-Time-series-Database/blob/main/images/image-20220707222641803.png)
 
 The figure above explicitly illustrates the development of time-series database, the popularity of time-series database increased quickly from 250 in 2018 to 600 in 2022 which demonstrates that time-series database has become the second most popular database nowadays.
 
@@ -53,11 +53,11 @@ Now TSDB has been widely used in the IOT, enterprise energy management, Internet
 
 ### 5. What will the future of time-series database be?
 
-![image-20220707222711931](C:\Users\Lucas Wang\AppData\Roaming\Typora\typora-user-images\image-20220707222711931.png)
+![image-20220707222711931](https://github.com/LucasWang03/Why-We-Need-Time-series-Database/blob/main/images/image-20220707222711931.png)
 
 The figure above reveals the popularity trend of the last 24 months about DBMS according to DB-engines. We can assert that the time-series database has been the most active and well-regarded DBMS and it's popularity has increasing over time. As time-series data plays a pivot role in many fields, I maintain that TSDB will show it's capabilities and impose a instrumental effect in those fields.
 
-![](C:\Users\Lucas Wang\AppData\Roaming\Typora\typora-user-images\image-20220707222133779.png)
+![image-20220707222133779](https://github.com/LucasWang03/Why-We-Need-Time-series-Database/blob/main/images/image-20220707222133779.png)
 
 As we can see above, we can assert utterly that  InfluxDB is the most remarkable TSDB in kinds of TSDB because of it's powerful and comprehensive functions. A domestic time-series database---TDengine which is established by TAOS data ranks 13. 
 
