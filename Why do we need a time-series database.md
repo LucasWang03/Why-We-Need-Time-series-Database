@@ -1,12 +1,12 @@
 #         Why do we need a time-series database? 
 
-Due to the proliferative use of big data in fields such as e-commerce, media and administration, the number of databases increases steeply and the importance of database draws attention of people. Among a multitude of kinds of database, the time-series database which is purpose-built to process mass of time-series data is rising and getting more popular. 
+Due to the pervasive use of big data in fields such as e-commerce, media and administration, the number of databases increases steeply and the importance of database draws attention of people. Among a multitude of kinds of database, the time-series database which is purpose-built to process mass of time-series data is rising and getting more popular. 
 
 So why do we need a time-series database?  Why those time-series database have became more popular? I deem that I can give a brief introduction in this article.
 
 ### 1. What is time-series database?
 
-First and foremost, we should comprehend the time-series data. Time series data, which is also referred to as time-stamped data, is a sequence of data points indexed in time order. Time-stamped is data collected at different points in time. These data points typically consist of successive measurements made from the same source over a time interval and are used to track change over time. For instance, If we use a thermometer to measure the temperature of a city all the time for a day, and record these temperatures, these are time-series data.
+First and foremost, we should comprehend the time-series data. Time series data, which is also referred to as time-stamped data, is a sequence of data points indexed in time order. Time-stamped is data collected at different points in time. These data points typically consist of successive measurements made from the same source over a time interval and are used to track change over time. For instance, If we use a thermometer to measure the temperature of a city all the time for a day, and record these temperatures, these data are time-series data.
 
 Time-series data is structured and rarely updated or deleted. A collection point's data source is unique, the data must be searched in a specified period and a specified area. It is estimated that more than 10 billion pieces of time-series data are generated every single day. By connecting these data, we can make a multi-latitude report in the past to reveal its tendency, regularity and anomaly. 
 
